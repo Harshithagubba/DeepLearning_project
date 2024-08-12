@@ -65,7 +65,7 @@ This repository features a project focused on classifying the water level in a b
 
 3. **Run the Application**
 
-    Ensure the `model.h5` file is in the project directory. Start the Flask application with:
+    Ensure the `x.h5` file is in the project directory. Start the Flask application with:
 
     ```bash
     python app.py
